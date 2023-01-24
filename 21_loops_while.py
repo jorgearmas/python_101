@@ -26,8 +26,7 @@ print("continue")
 counter = 0
 while counter < 20:
     counter += 1
-    #se oviaran las iteraciones en donde 'counter' < 15   
+    #se obviaran las iteraciones en donde 'counter' < 15   
     if counter < 15:
         continue
     print(counter)
-    
